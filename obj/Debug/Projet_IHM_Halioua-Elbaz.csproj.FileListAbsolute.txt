@@ -1,0 +1,15 @@
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\bin\Debug\Resources\echec.png
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\bin\Debug\images.bmp
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\bin\Debug\WindowsFormsApp1.exe
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\obj\Debug\Projet_IHM_Halioua-Elbaz.csprojAssemblyReference.cache
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.Jeu.resources
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.Menu.resources
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.Simulation.resources
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.SimulationJeu.resources
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\obj\Debug\Projet_IHM_Halioua-Elbaz.csproj.GenerateResource.cache
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\obj\Debug\Projet_IHM_Halioua-Elbaz.csproj.CoreCompileInputs.cache
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.exe
+C:\Users\emman\Desktop\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.pdb

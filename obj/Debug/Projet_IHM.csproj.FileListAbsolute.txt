@@ -1,0 +1,15 @@
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\bin\Debug\Resources\echec.png
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\bin\Debug\images.bmp
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\bin\Debug\WindowsFormsApp1.exe.config
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\bin\Debug\WindowsFormsApp1.exe
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\bin\Debug\WindowsFormsApp1.pdb
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\obj\Debug\Projet_IHM.csprojAssemblyReference.cache
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.Jeu.resources
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.Menu.resources
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.Simulation.resources
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.SimulationJeu.resources
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\obj\Debug\Projet_IHM.csproj.GenerateResource.cache
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\obj\Debug\Projet_IHM.csproj.CoreCompileInputs.cache
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.exe
+D:\Nouveau dossier\DUT\PROJET\ProjetIHM\PROJET_HALIOUA_ELBAZ\obj\Debug\WindowsFormsApp1.pdb
